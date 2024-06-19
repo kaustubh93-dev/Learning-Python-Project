@@ -55,7 +55,7 @@ This is a simple To-Do List application built in Python. It allows users to mana
 - Simply close the application window to exit.
 
 ## Screenshot
-
+![alt text](image.png)
 
 ## Future Enhancements
 - Implement additional features such as task prioritization, due dates, and categories.
