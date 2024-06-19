@@ -1,4 +1,4 @@
-# Learning-Python-Project
+# Python-Project
 Building Projects to learn python
 
 ## Contributing
