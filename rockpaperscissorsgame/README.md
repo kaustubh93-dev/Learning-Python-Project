@@ -45,6 +45,10 @@ This application is a GUI-based Rock-Paper-Scissors game implemented using the T
 - Ensure you have Python installed on your system.
 - Run the **'[rock-paper-scissors-game.py](rock-paper-scissors-game.py)'** script using a Python interpreter.
 
+## How does it look
+
+![alt text](image.png)
+
 ## Future Improvements
 - Implement sound effects for button clicks and game results.
 - Add images for the rock, paper, and scissors buttons to enhance visual appeal.
