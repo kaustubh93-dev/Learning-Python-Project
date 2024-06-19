@@ -28,8 +28,7 @@ def play_round(user_choice):
     elif winner == "computer":
         computer_score_var.set(computer_score_var.get()+1)
 
-# ... rest of my code ...
-
+# ........ rest of my code ...
 
 def play_round(user_choice):
     Computer_choice =random.choice(choices)
